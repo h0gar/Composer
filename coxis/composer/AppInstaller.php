@@ -4,8 +4,6 @@ namespace Coxis\Composer;
 use Composer\Package\PackageInterface;
 use Composer\Installer\LibraryInstaller;
 
-die('a');
-
 class AppInstaller extends LibraryInstaller
 {
     /**
