@@ -1,0 +1,11 @@
+{
+    "name": "coxis/composer",
+    "version": "1.0",
+    "type": "composer-installer",
+    "autoload": {
+        "psr-0": {"Coxis\\Composer": ""}
+    },
+    "extra": {
+        "class": "Coxis\\Composer\\AppInstaller"
+    }
+}
