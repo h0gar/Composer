@@ -3,9 +3,9 @@
     "version": "1.0",
     "type": "composer-installer",
     "autoload": {
-        "psr-0": {"Coxis\\Composer": ""}
+        "psr-0": {"coxis\\composer": ""}
     },
     "extra": {
-        "class": "Coxis\\Composer\\AppInstaller"
+        "class": "coxis\\composer\\AppInstaller"
     }
 }
