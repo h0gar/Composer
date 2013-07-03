@@ -1,6 +1,7 @@
 {
     "name": "coxis/composer-installer",
     "version": "1.0",
+    "license": "MIT",
     "type": "composer-installer",
     "autoload": {
         "psr-0": {"coxis\\composer": "../../"}
