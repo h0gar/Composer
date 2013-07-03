@@ -1,5 +1,5 @@
 {
-    "name": "coxis/composer",
+    "name": "coxis/composer-installer",
     "version": "1.0",
     "type": "composer-installer",
     "autoload": {
