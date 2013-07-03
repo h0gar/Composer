@@ -22,3 +22,5 @@ class AppInstaller extends LibraryInstaller
         return $packageType === 'coxis-app';
     }
 }
+
+//aaa
